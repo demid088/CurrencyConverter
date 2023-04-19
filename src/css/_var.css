@@ -1,0 +1,29 @@
+:root {
+  /* color */
+  --color-1: #F9E2AF;
+  --color-2: #009FBD;
+  --color-3: #210062;
+  --color-4: #77037B;
+  
+  /* border */
+  --border: 2px solid var(--color-4);
+  --border-hover: 2px solid var(--color-3);
+
+  /* font title */
+  --fs-title-xxl: 1.5rem;
+  --lh-title-xxl: 1.5rem;
+  --fw-title-xxl: 900;
+  
+  --fs-title-xs: 1.5rem;
+  --lh-title-xs: 2.0rem;
+  
+  /* font btn */
+  --fs-btn: 2.0rem;
+  --lh-btn: 2.5rem;
+  --fw-btn: 300;
+
+  --fs-btn-xs: 1.2rem;
+
+  /* line-height */
+  --lh-text: 2;
+}
