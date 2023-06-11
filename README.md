@@ -5,6 +5,6 @@
 
 ## TODO
 
-[ ] Add currency selection
-[ ] 2 знака после запятой
-[ ] Load data http://www.cbr.ru/
+- [ ] Add currency selection
+- [ ] 2 знака после запятой
+- [ ] Load data http://www.cbr.ru/
